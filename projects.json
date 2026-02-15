@@ -1,0 +1,49 @@
+{
+  "projects": [
+    {
+      "name": "Portofolio",
+      "description": "created by rikansaa",
+      "image": "https://placehold.co/800x600/3b82f6/ffffff?text=Portofolio",
+      "url": "https://github.com/Rikansaa/Portofolio",
+      "language": "EJS",
+      "stars": 0,
+      "forks": 0
+    },
+    {
+      "name": "Request",
+      "description": "",
+      "image": "https://placehold.co/800x600/3b82f6/ffffff?text=Request",
+      "url": "https://github.com/Rikansaa/Request",
+      "language": "EJS",
+      "stars": 0,
+      "forks": 0
+    },
+    {
+      "name": "valenska",
+      "description": "Website",
+      "image": "https://placehold.co/800x600/3b82f6/ffffff?text=valenska",
+      "url": "https://github.com/Rikansaa/valenska",
+      "language": "HTML",
+      "stars": 0,
+      "forks": 0
+    },
+    {
+      "name": "Project-Bot-Whatsapp.",
+      "description": "Sigma",
+      "image": "https://placehold.co/800x600/3b82f6/ffffff?text=Project-Bot-Whatsapp.",
+      "url": "https://github.com/Rikansaa/Project-Bot-Whatsapp.",
+      "language": "JavaScript",
+      "stars": 0,
+      "forks": 0
+    },
+    {
+      "name": "Base-Bott-Whatsapp",
+      "description": "Base Bot Whatsapp Simple",
+      "image": "https://placehold.co/800x600/3b82f6/ffffff?text=Base-Bott-Whatsapp",
+      "url": "https://github.com/Rikansaa/Base-Bott-Whatsapp",
+      "language": "JavaScript",
+      "stars": 3,
+      "forks": 0
+    }
+  ]
+}
