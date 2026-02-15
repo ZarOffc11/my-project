@@ -19,30 +19,12 @@
       "forks": 0
     },
     {
-      "name": "valenska",
-      "description": "Website",
-      "image": "https://placehold.co/800x600/3b82f6/ffffff?text=valenska",
-      "url": "https://github.com/Rikansaa/valenska",
+      "name": "Portofolio",
+      "description": "this is an Dummy",
+      "image": "https://placehold.co/800x600/000000/ffffff?text=Portofolio",
+      "url": "https://github.com/ZarOffc11/portofolio",
       "language": "HTML",
-      "stars": 0,
-      "forks": 0
-    },
-    {
-      "name": "Project-Bot-Whatsapp.",
-      "description": "Sigma",
-      "image": "https://placehold.co/800x600/3b82f6/ffffff?text=Project-Bot-Whatsapp.",
-      "url": "https://github.com/Rikansaa/Project-Bot-Whatsapp.",
-      "language": "JavaScript",
-      "stars": 0,
-      "forks": 0
-    },
-    {
-      "name": "Base-Bott-Whatsapp",
-      "description": "Base Bot Whatsapp Simple",
-      "image": "https://placehold.co/800x600/3b82f6/ffffff?text=Base-Bott-Whatsapp",
-      "url": "https://github.com/Rikansaa/Base-Bott-Whatsapp",
-      "language": "JavaScript",
-      "stars": 3,
+      "stars": 1,
       "forks": 0
     }
   ]
