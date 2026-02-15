@@ -1,14 +1,14 @@
 {
   "projects": [
     {
-      "name": "Portofolio",
-      "description": "created by rikansaa",
-      "image": "https://placehold.co/800x600/3b82f6/ffffff?text=Portofolio",
-      "url": "https://github.com/Rikansaa/Portofolio",
-      "language": "EJS",
+      "name": "ZarProject",
+      "description": "Theme that make your Admin Panel looks better for Pterodactyl Panel",
+      "image": "https://files.clonix.cam/images/118a2b7479c9.png",
+      "url": "https://github.com/ZarOffc11/ZarProject",
+      "language": "Blade",
       "stars": 0,
       "forks": 0
-    },
+    }, 
     {
       "name": "Request",
       "description": "",
